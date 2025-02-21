@@ -11,7 +11,7 @@ Each homework solution is contained in its own directory following the naming co
 - [**Homework 04:** Gaussian Mixture Distribution Parameter Estimation](https://isip.piconepress.com/courses/temple/ece_8527/homework/2025_00_spring/hw_04_v03.docx)
 - [**Homework 05:** Dynamic Programming](https://isip.piconepress.com/courses/temple/ece_8527/homework/2025_00_spring/hw_05_v03.docx)
 - [**Homework 06:** Hidden Markov Models](https://isip.piconepress.com/courses/temple/ece_8527/homework/2025_00_spring/hw_06_v03.docx)
-- **Homework 07:** Information Theory and Statistical Significance
+- [**Homework 07:** Information Theory and Statistical Significance](https://isip.piconepress.com/courses/temple/ece_8527/homework/2025_00_spring/hw_07_v03.docx)
 - **Homework 08:** LDA, K-Nearest Neighbors, and K-Means Clustering
 - **Homework 09:** Bootstrapping, Bagging, and Combining Classifiers
 - **Homework 10:** Nonparametric Classifiers, ROC Curves, and AUC
